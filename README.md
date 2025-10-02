@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vyasso
 - 👀 I’m interested in HTML, CSS, JS and C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
