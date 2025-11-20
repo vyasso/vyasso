@@ -10,11 +10,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyasso/vyasso/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vyasso/vyasso/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vyasso/vyasso/output/pacman-contribution-graph-dark.svg">
-</picture>
+![snake gif](https://github.com/vyasso/vyasso/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ---
 
