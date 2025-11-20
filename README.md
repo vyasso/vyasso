@@ -3,21 +3,9 @@
   <h1>A. Yasso</h1>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vyasso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyasso&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
-</div>
-
----
-
-![snake gif](https://github.com/vyasso/vyasso/blob/output/github-contribution-grid-snake.gif)
-
-
-
----
 
 ## 💫 About Me
-<br/><br/>
+
 👋 Hi, I’m @vyasso
 🔭 I’m currently studying Fullstack Developer<br/>
 🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.<br/>
@@ -25,6 +13,20 @@
 🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.<br/
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vyasso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyasso&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+
+
+
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/3)
@@ -33,7 +35,10 @@
 
 ---
 
-## 💻 Tech
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%A7%A0+My+Skills+%26+Tools" alt="Typing SVG" />
+</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -59,4 +64,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+
+---
+
+### 💬 Quote of the Day
+
+> “Stay hungry. Stay foolish.” – *Steve Jobs*
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77272&center=true&vCenter=true&repeat=true&width=435&lines=Code...;Create...;Collaborate...;Change+the+World!" alt="Typing SVG" />
+</h2>
 ```
