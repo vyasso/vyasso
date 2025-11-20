@@ -10,7 +10,7 @@
 🔭 I’m currently studying Fullstack Developer<br/>
 🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.<br/>
 👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.<br/>
-🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.<br/
+🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.<br/>
 
 ---
 <div align="center">
