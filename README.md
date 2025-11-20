@@ -77,4 +77,4 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77272&center=true&vCenter=true&repeat=true&width=435&lines=Code...;Create...;Collaborate...;Change+the+World!" alt="Typing SVG" />
 </h2>
-```
+
