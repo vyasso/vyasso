@@ -3,18 +3,6 @@
   <h1>🕶️ A. Yasso</h1>
 </div>
 
----
-```bash
-> wake_up.sh
-root@onemachinetoruleemall:/$ System online...
-root@onemachinetoruleemall:/usr/mos$ Compiling optimism...
-root@onemachinetoruleemall:/usr/mos$ npm run focus
-✅ Success: minimal distractions
-root@onemachinetoruleemall:/usr/mos$ node life.js
-⚠️ Warning: unexpected adulting detected
-```
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moooshooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=moooshooo&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -33,6 +21,7 @@ root@onemachinetoruleemall:/usr/mos$ node life.js
 
 ## 💫 About Me
 <br/><br/>
+👋 Hi, I’m @vyasso
 🔭 I’m currently studying Fullstack Developer<br/>
 🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.<br/>
 👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.<br/>
@@ -74,11 +63,6 @@ root@onemachinetoruleemall:/usr/mos$ node life.js
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ```
-
-
-- 👋 Hi, I’m @vyasso
-- 👀 I’m interested in HTML, CSS, JS and C#
-- 📫 How to reach me ...
 
 <!---
 vyasso/vyasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
